@@ -5,30 +5,29 @@ This is the font I use in my Emacs setup[0].  I built it using the
 alternative glyphs repo[1], provided by the author of "Hack"[2], as
 well as the build instruction documented therein.
 
-Quoting from my init file on the scope of my modifications[3]:
+The patches concern the following:
 
-	+ Use slabbed version of letter "i" /only/ for the Regular and
-	  Bold variants.  Italics and Bold Italics will use the default
-	  slab-less glyph.
++ Use slabbed version of letter "i" only for the Regular and Bold
+  variants (roman forms).  Italics and Bold Italics will use the default
+  slab-less glyph.
 
-	+ Use a slab-less "1", which clearly disambiguates it from slabbed
-	  "i".
++ Use a slab-less "1" numeral, which clearly distinguish it from the
+  slabbed letter "i".
 
-	+ Use "3" with a flat top in Regular and Bold variants.  Leave
-	  unchanged for their italicised counterparts.
++ Use "3" with a flat top in Regular and Bold variants.  Leave it
+  unchanged for their italicised counterparts.
 
-	+ Use knife variant of "f" for the Italic and Bold Italic sets.
-	  The default glyph remains unchanged for Regular and Bold.
++ Use knife variant of "f" for the Italic and Bold Italic sets.  The
+  default glyph remains unchanged for Regular and Bold.
 
-	+ Use dotted zero in Regular and Bold sets, while reverting to
-	  diamond zero for the italic variants.  The use of a dot and a
-	  diamond is necessary to offer the /impression/ of similarity
-	  between roman and italic glyph variations.
++ Use dotted zero in Regular and Bold sets, while reverting to diamond
+  zero for the italic variants.  The use of a dot and a diamond is
+  necessary to offer the impression of similarity between roman and
+  italic glyph variations: it ensures that the "0" remains unambiguous.
 
 These files were built on 2019-09-07 on a Debian 10 system.  They are
 licensed under the same terms as Hack itself (see COPYING).
 
-[0]: https://gitlab.com/protesilaos/dotemacs
+[0]: https://protesilaos.com/dotemacs
 [1]: https://github.com/source-foundry/alt-hack
 [2]: https://github.com/source-foundry/Hack
-[3]: https://protesilaos.com/dotemacs
