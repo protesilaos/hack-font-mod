@@ -5,7 +5,7 @@ glyphs that slightly differentiate it from the upstream distribution.
 The source of the patched glyphs is the [[https://github.com/source-foundry/alt-hack][alt-hack repo]]sitory provided by
 the authors of Hack itself.
 
-The pictures in the wiki summarise my changes.  Detailed description are
+The [[https://gitlab.com/protesilaos/hack-font-mod/-/wikis/Pictures][pictures in the wiki]] summarise my changes.  Detailed description are
 offered below.  In parentheses I mention the glyph code from the
 alt-hack repo, else I refer to the upstream version.
 
