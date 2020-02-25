@@ -2,11 +2,11 @@
 
 This is the typeface I use in [[https://protesilaos.com/dotemacs][my Emacs setup]].  It contains a set of
 glyphs that slightly differentiate it from the upstream distribution.
-The source of the patched glyphs is the [[https://github.com/source-foundry/alt-hack][alt-hack repo]]sitory provided by
+The source of the patched glyphs is the [[https://github.com/source-foundry/alt-hack][alt-hack repository]] provided by
 the authors of Hack itself.
 
-The [[https://gitlab.com/protesilaos/hack-font-mod/-/wikis/Pictures][pictures in the wiki]] summarise my changes.  Detailed description are
-offered below.  In parentheses I mention the glyph code from the
+The [[https://gitlab.com/protesilaos/hack-font-mod/-/wikis/Pictures][pictures in the wiki]] summarise my changes.  Detailed descriptions
+are offered below.  In parentheses I mention the glyph code from the
 alt-hack repo, else I refer to the upstream version.
 
 ** Regular and bold
