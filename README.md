@@ -16,8 +16,8 @@ Summary of my changes, done on 2020-09-26:
    counterpart in newer releases of Hack.  Italics and Bold italics
    still use the hooked version (the default).
 3. Add a `0` (zero) with a diamond-shaped mid dot from the alt-hack repo
-   for the regular and italic variants.  Bold and bold italics retain
-   their default glyphs.
+   for the regular and italic variants.  Bold and bold italics use a
+   dotted zero instead, also from the alt-hack repo.
 4. Change `f` (lower case F) to a knife variant for the bold and bold
    italic sets.  Keep it as-is for regular and italics.
 
