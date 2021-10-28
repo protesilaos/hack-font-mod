@@ -32,7 +32,7 @@ Summary of my changes, done on 2021-10-16:
    Hack.
 
 Here are screenshots with some real-world usage of the typeface at point
-size 9 (enlarge the images at their natural size, otherwise the text is
+size 9 (view the images at their natural size, otherwise the text is
 distorted):
 
 ![Hack mod at pt9 using Emacs](./screenshots/sample-pt9-light.png)
