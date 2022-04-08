@@ -4,10 +4,10 @@
 
 * * *
 
-This is a monospaced typeface I use as my fallback option in my
-GNU/Linux setup.  It contains a set of glyphs that slightly
-differentiate it from the upstream distribution.  The source of the
-patched glyphs is (1) version `3.000` of [upstream
+This is a monospaced typeface I use as a fallback option in my GNU/Linux
+setup.  It contains a set of glyphs that slightly differentiate it from
+the upstream distribution.  The source of the patched glyphs is (1)
+version `3.000` of [upstream
 Hack](https://github.com/source-foundry/Hack), (2) the [alt-hack
 repository](https://github.com/source-foundry/alt-hack) provided by the
 authors of Hack itself, (3) version `1.3` of upstream Hack.
